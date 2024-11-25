@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "5d6a88a3-2584-45c8-8ce0-f33cbb735623"
+      }
+    },
+    "android": {
+      "package": "com.sunjeet7.infinitynetworksadminapp"
+    }
+  }
+}

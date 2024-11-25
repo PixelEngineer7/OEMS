@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "95092274-00a9-44c4-b25f-aff06efc75ea"
+      }
+    },
+    "android": {
+      "package": "com.sunjeet7.infinitynetworksapp"
+    }
+  }
+}
