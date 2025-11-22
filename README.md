@@ -1,1 +1,1 @@
-Link to live Web App: infinityapp.xo.je
+Link to live Web App: [infinityapp.xo.je](https://infinityapp.xo.je/)
